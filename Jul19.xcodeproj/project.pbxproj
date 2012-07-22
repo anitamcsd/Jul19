@@ -1,0 +1,324 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		0322E15315BCBF900061C875 /* Aquarius1.png in Resources */ = {isa = PBXBuildFile; fileRef = 0322E14715BCBF900061C875 /* Aquarius1.png */; };
+		0322E15415BCBF900061C875 /* Aries1.png in Resources */ = {isa = PBXBuildFile; fileRef = 0322E14815BCBF900061C875 /* Aries1.png */; };
+		0322E15515BCBF900061C875 /* Cancer1.png in Resources */ = {isa = PBXBuildFile; fileRef = 0322E14915BCBF900061C875 /* Cancer1.png */; };
+		0322E15615BCBF900061C875 /* Capricorn1.png in Resources */ = {isa = PBXBuildFile; fileRef = 0322E14A15BCBF900061C875 /* Capricorn1.png */; };
+		0322E15715BCBF900061C875 /* Gemini1.png in Resources */ = {isa = PBXBuildFile; fileRef = 0322E14B15BCBF900061C875 /* Gemini1.png */; };
+		0322E15815BCBF900061C875 /* Libra1.png in Resources */ = {isa = PBXBuildFile; fileRef = 0322E14C15BCBF900061C875 /* Libra1.png */; };
+		0322E15915BCBF900061C875 /* Lion1.png in Resources */ = {isa = PBXBuildFile; fileRef = 0322E14D15BCBF900061C875 /* Lion1.png */; };
+		0322E15A15BCBF900061C875 /* Pisces1.png in Resources */ = {isa = PBXBuildFile; fileRef = 0322E14E15BCBF900061C875 /* Pisces1.png */; };
+		0322E15B15BCBF900061C875 /* Sagittarius1.png in Resources */ = {isa = PBXBuildFile; fileRef = 0322E14F15BCBF900061C875 /* Sagittarius1.png */; };
+		0322E15C15BCBF900061C875 /* Scorpio1.png in Resources */ = {isa = PBXBuildFile; fileRef = 0322E15015BCBF900061C875 /* Scorpio1.png */; };
+		0322E15D15BCBF900061C875 /* Taurus1.png in Resources */ = {isa = PBXBuildFile; fileRef = 0322E15115BCBF900061C875 /* Taurus1.png */; };
+		0322E15E15BCBF900061C875 /* Virgo1.png in Resources */ = {isa = PBXBuildFile; fileRef = 0322E15215BCBF900061C875 /* Virgo1.png */; };
+		3947A4AA1487D200008F7229 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3947A4A91487D200008F7229 /* UIKit.framework */; };
+		3947A4AC1487D200008F7229 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3947A4AB1487D200008F7229 /* Foundation.framework */; };
+		3947A4AE1487D200008F7229 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3947A4AD1487D200008F7229 /* CoreGraphics.framework */; };
+		3947A4B41487D200008F7229 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 3947A4B21487D200008F7229 /* InfoPlist.strings */; };
+		3947A4B61487D200008F7229 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 3947A4B51487D200008F7229 /* main.m */; };
+		3947A4BA1487D200008F7229 /* TabBarAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 3947A4B91487D200008F7229 /* TabBarAppDelegate.m */; };
+		3947A4C21487D2FF008F7229 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3947A4C11487D2FF008F7229 /* ViewController.m */; };
+		3947A4C51487D4B2008F7229 /* View.m in Sources */ = {isa = PBXBuildFile; fileRef = 3947A4C41487D4B2008F7229 /* View.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		0322E14715BCBF900061C875 /* Aquarius1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Aquarius1.png; sourceTree = "<group>"; };
+		0322E14815BCBF900061C875 /* Aries1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Aries1.png; sourceTree = "<group>"; };
+		0322E14915BCBF900061C875 /* Cancer1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Cancer1.png; sourceTree = "<group>"; };
+		0322E14A15BCBF900061C875 /* Capricorn1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Capricorn1.png; sourceTree = "<group>"; };
+		0322E14B15BCBF900061C875 /* Gemini1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Gemini1.png; sourceTree = "<group>"; };
+		0322E14C15BCBF900061C875 /* Libra1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Libra1.png; sourceTree = "<group>"; };
+		0322E14D15BCBF900061C875 /* Lion1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Lion1.png; sourceTree = "<group>"; };
+		0322E14E15BCBF900061C875 /* Pisces1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Pisces1.png; sourceTree = "<group>"; };
+		0322E14F15BCBF900061C875 /* Sagittarius1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Sagittarius1.png; sourceTree = "<group>"; };
+		0322E15015BCBF900061C875 /* Scorpio1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Scorpio1.png; sourceTree = "<group>"; };
+		0322E15115BCBF900061C875 /* Taurus1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Taurus1.png; sourceTree = "<group>"; };
+		0322E15215BCBF900061C875 /* Virgo1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Virgo1.png; sourceTree = "<group>"; };
+		3947A4A51487D200008F7229 /* Jul19.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Jul19.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		3947A4A91487D200008F7229 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		3947A4AB1487D200008F7229 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		3947A4AD1487D200008F7229 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		3947A4B11487D200008F7229 /* Jul19-Info.plist */ = {isa = PBXFileReference; path = "Jul19-Info.plist"; sourceTree = "<group>"; };
+		3947A4B31487D200008F7229 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		3947A4B51487D200008F7229 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		3947A4B71487D200008F7229 /* Jul19-Prefix.pch */ = {isa = PBXFileReference; path = "Jul19-Prefix.pch"; sourceTree = "<group>"; };
+		3947A4B81487D200008F7229 /* TabBarAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TabBarAppDelegate.h; sourceTree = "<group>"; };
+		3947A4B91487D200008F7229 /* TabBarAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TabBarAppDelegate.m; sourceTree = "<group>"; };
+		3947A4C01487D2FF008F7229 /* ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		3947A4C11487D2FF008F7229 /* ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		3947A4C31487D4B2008F7229 /* View.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = View.h; sourceTree = "<group>"; };
+		3947A4C41487D4B2008F7229 /* View.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = View.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		3947A4A21487D200008F7229 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3947A4AA1487D200008F7229 /* UIKit.framework in Frameworks */,
+				3947A4AC1487D200008F7229 /* Foundation.framework in Frameworks */,
+				3947A4AE1487D200008F7229 /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		3947A49A1487D200008F7229 = {
+			isa = PBXGroup;
+			children = (
+				3947A4AF1487D200008F7229 /* TabBar */,
+				3947A4A81487D200008F7229 /* Frameworks */,
+				3947A4A61487D200008F7229 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		3947A4A61487D200008F7229 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				3947A4A51487D200008F7229 /* Jul19.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		3947A4A81487D200008F7229 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				3947A4A91487D200008F7229 /* UIKit.framework */,
+				3947A4AB1487D200008F7229 /* Foundation.framework */,
+				3947A4AD1487D200008F7229 /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		3947A4AF1487D200008F7229 /* TabBar */ = {
+			isa = PBXGroup;
+			children = (
+				3947A4B81487D200008F7229 /* TabBarAppDelegate.h */,
+				3947A4B91487D200008F7229 /* TabBarAppDelegate.m */,
+				3947A4C01487D2FF008F7229 /* ViewController.h */,
+				3947A4C11487D2FF008F7229 /* ViewController.m */,
+				3947A4C31487D4B2008F7229 /* View.h */,
+				3947A4C41487D4B2008F7229 /* View.m */,
+				3947A4B01487D200008F7229 /* Supporting Files */,
+			);
+			path = TabBar;
+			sourceTree = "<group>";
+		};
+		3947A4B01487D200008F7229 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				3947A4B11487D200008F7229 /* Jul19-Info.plist */,
+				0322E14715BCBF900061C875 /* Aquarius1.png */,
+				0322E14815BCBF900061C875 /* Aries1.png */,
+				0322E14915BCBF900061C875 /* Cancer1.png */,
+				0322E14A15BCBF900061C875 /* Capricorn1.png */,
+				0322E14B15BCBF900061C875 /* Gemini1.png */,
+				0322E14C15BCBF900061C875 /* Libra1.png */,
+				0322E14D15BCBF900061C875 /* Lion1.png */,
+				0322E14E15BCBF900061C875 /* Pisces1.png */,
+				0322E14F15BCBF900061C875 /* Sagittarius1.png */,
+				0322E15015BCBF900061C875 /* Scorpio1.png */,
+				0322E15115BCBF900061C875 /* Taurus1.png */,
+				0322E15215BCBF900061C875 /* Virgo1.png */,
+				3947A4B21487D200008F7229 /* InfoPlist.strings */,
+				3947A4B51487D200008F7229 /* main.m */,
+				3947A4B71487D200008F7229 /* Jul19-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		3947A4A41487D200008F7229 /* Jul19 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 3947A4BD1487D200008F7229 /* Build configuration list for PBXNativeTarget "Jul19" */;
+			buildPhases = (
+				3947A4A11487D200008F7229 /* Sources */,
+				3947A4A21487D200008F7229 /* Frameworks */,
+				3947A4A31487D200008F7229 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Jul19;
+			productName = TabBar;
+			productReference = 3947A4A51487D200008F7229 /* Jul19.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		3947A49C1487D200008F7229 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0420;
+			};
+			buildConfigurationList = 3947A49F1487D200008F7229 /* Build configuration list for PBXProject "Jul19" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 3947A49A1487D200008F7229;
+			productRefGroup = 3947A4A61487D200008F7229 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				3947A4A41487D200008F7229 /* Jul19 */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		3947A4A31487D200008F7229 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3947A4B41487D200008F7229 /* InfoPlist.strings in Resources */,
+				0322E15315BCBF900061C875 /* Aquarius1.png in Resources */,
+				0322E15415BCBF900061C875 /* Aries1.png in Resources */,
+				0322E15515BCBF900061C875 /* Cancer1.png in Resources */,
+				0322E15615BCBF900061C875 /* Capricorn1.png in Resources */,
+				0322E15715BCBF900061C875 /* Gemini1.png in Resources */,
+				0322E15815BCBF900061C875 /* Libra1.png in Resources */,
+				0322E15915BCBF900061C875 /* Lion1.png in Resources */,
+				0322E15A15BCBF900061C875 /* Pisces1.png in Resources */,
+				0322E15B15BCBF900061C875 /* Sagittarius1.png in Resources */,
+				0322E15C15BCBF900061C875 /* Scorpio1.png in Resources */,
+				0322E15D15BCBF900061C875 /* Taurus1.png in Resources */,
+				0322E15E15BCBF900061C875 /* Virgo1.png in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		3947A4A11487D200008F7229 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3947A4B61487D200008F7229 /* main.m in Sources */,
+				3947A4BA1487D200008F7229 /* TabBarAppDelegate.m in Sources */,
+				3947A4C21487D2FF008F7229 /* ViewController.m in Sources */,
+				3947A4C51487D4B2008F7229 /* View.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		3947A4B21487D200008F7229 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				3947A4B31487D200008F7229 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		3947A4BB1487D200008F7229 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		3947A4BC1487D200008F7229 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		3947A4BE1487D200008F7229 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "TabBar/Jul19-Prefix.pch";
+				INFOPLIST_FILE = "TabBar/Jul19-Info.plist";
+				PRODUCT_NAME = Jul19;
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		3947A4BF1487D200008F7229 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "TabBar/Jul19-Prefix.pch";
+				INFOPLIST_FILE = "TabBar/Jul19-Info.plist";
+				PRODUCT_NAME = Jul19;
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		3947A49F1487D200008F7229 /* Build configuration list for PBXProject "Jul19" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3947A4BB1487D200008F7229 /* Debug */,
+				3947A4BC1487D200008F7229 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		3947A4BD1487D200008F7229 /* Build configuration list for PBXNativeTarget "Jul19" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3947A4BE1487D200008F7229 /* Debug */,
+				3947A4BF1487D200008F7229 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 3947A49C1487D200008F7229 /* Project object */;
+}
